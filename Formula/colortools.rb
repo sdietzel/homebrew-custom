@@ -2,7 +2,7 @@ class Colortools < Formula
   desc "Convert, import and export MacOS Color Picker (NSColorList) palettes"
   homepage "https://github.com/ramonpoca/ColorTools"
   url "https://github.com/ramonpoca/ColorTools/archive/0.3.tar.gz"
-  sha256 "d7d852946a66782bebe7973ff62ed45389f984b72093dc3509ad8b1cc5a32638"
+  sha256 "e6b9689611f999a3fbda43304d75914b81022654537d29dc350f040bfce41019"
 
   def install
     xcodebuild "SYMROOT=build"
